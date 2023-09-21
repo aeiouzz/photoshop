@@ -18,6 +18,14 @@
 - ctrl + g
 - ctrl + shift + g 그룹 해제
 
-
 # trim -> 사진 주위에 투명한 부분 정리하여 사진 크기에 맞추기( image - trim )
+- duplicate layer - image - trim - transparent pixels
 
+# 화면 이동 -> 스페이스바 + 화면을 드래그
+
+# view - new guide layout - lock guide
+
+# 선택 영역 네모 없애기 -> 마크툴(m)
+- ctrl + d
+
+  
