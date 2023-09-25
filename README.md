@@ -33,6 +33,11 @@
 ![image](https://github.com/aeiouzz/photoshop/assets/145514483/ad7c9fd0-556c-470e-a270-df030d40eafe)
 alt + 레이어마스크를 클릭하면 반전으로 나오고
 이미 만들어진 레이어마스크의 칼라를 반전시키려면 ctrl+i
+원 안을 남기려면 레이어 마스크 - 안쪽을 파내려면 컨트롤 아이
+컨트롤 + 썸네일에 네모 셀렉트 모디파이 컨트렉트 (줄어든다)
+
+![image](https://github.com/aeiouzz/photoshop/assets/145514483/718cba68-a01f-4852-8ef4-755e260b3ae9)
+누르고 컨트롤 아이
 
 
 ctrl + 레이어 왼쪽 누르면 툴로 선택
